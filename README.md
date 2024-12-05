@@ -3,7 +3,7 @@
 
 > Software Engineer student
 
-I am an entry-level web developer with a strong focus on back-end development. I am capable of creating a web presence from scratch, including planning, navigation, layout, and programming. I excel in writing well-designed, testable, and efficient back-end code using modern architectural practices. My passion lies in developing robust and scalable server-side applications.
+I am a junior web developer with a strong focus on back-end development. I am capable of creating a web presence from scratch, including planning, navigation, layout, and programming. I excel in writing well-designed, testable, and efficient back-end code using modern architectural practices. My passion lies in developing robust and scalable server-side applications.
 
 ### Programming Languages 🌐
 
