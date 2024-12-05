@@ -26,8 +26,8 @@ I am an entry-level web developer with a strong focus on back-end development. I
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gerna-v1&repo=BankSystem&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gerna-v1&repo=Pokedex&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gerna-v1&repo=BankSystem&show_owner=true)](https://github.com/gerna-v1/BankSystem)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gerna-v1&repo=Pokedex&show_owner=true)](https://gerna-v1.github.io/Pokedex/)
 
 ### 🤝🏻 Connect with Me
 
